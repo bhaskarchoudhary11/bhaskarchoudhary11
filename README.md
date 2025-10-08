@@ -1,5 +1,5 @@
 👋 Hi, I’m Bhaskar Choudhary (@bhaskarchoudhary11)
-💼 ERP Business Analyst | Data Enthusiast | Process Optimizer
+Senior Engineer – ERP | Implementation & Support | Business Process Analyst
 
 👀 I’m interested in:
 ERP systems, business process improvement, data analytics, and business intelligence.
